@@ -1,0 +1,74 @@
+.body1{
+    background-image: url("https://img.freepik.com/premium-photo/product-presentation-wooden-table-with-background-empty-bookshelf-library_172251-444.jpg");
+    display: inline-flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+h1{
+  text-align: center;
+  font-family: Bradley Hand;
+  ;
+}
+.img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    width:40vw;
+    height: 40vh;
+    position:relative;
+}
+.box1a{
+  height: 85vh;
+  width: 100vh;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+  .carda
+  {
+    text-align: left;
+    font-size:19px;
+    background-color: rgba(242, 242, 242, 0.658);
+      padding: 100px;
+      padding-top: 10px;
+      padding-right: 120px;
+      color: rgb(0, 0, 0);
+      opacity: 0.7;
+      width: 250px;
+      height: 400px;
+      border-radius: 20px;
+      margin-left: 200px;
+  }
+  .centera
+  {
+    text-align: center;
+  }
+  .btna
+  {
+    font-family: Bradley Hand;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height:50px;
+    width:100px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  input[type=text] {
+    font-family: Bradley Hand;
+    width: 110%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=password] {
+    font-family: Bradley Hand;
+    width: 110%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  h4{
+    font-family: Bradley Hand;
+
+  }

@@ -1,0 +1,37 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1521036392421-35d436448d6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    background-Size:cover;
+
+}  
+  .Title{
+    
+    font-family: Bradley Hand;
+    font-size: 100px;
+    font-weight: 400;
+    display: flex;
+    margin-left: 450px;
+    padding-top: 250px;
+    padding-right: 50px;
+  }
+  
+  .container {
+    font-family: Comic Sans MS;
+    align-items: center;
+    font-size: 25px;
+    display: flex;
+    margin-left: 455px;
+    margin-top: -105px;
+
+  }
+  .Line{
+        height:100px;
+        width: 450px;
+  }
+  .Logo{
+    height:180px;
+    width: 180px;
+    margin-left: 260px;
+    margin-top: -140px;
+    display:flex;
+  }
+
